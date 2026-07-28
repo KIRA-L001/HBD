@@ -1,34 +1,32 @@
-Happy Birthday
+# 🎂 Happy Birthday (HBD)
 
-A Happy Birthday animation design in CSS3, HTML5.
+A Happy Birthday animation built with HTML5, CSS3, and jQuery — animated balloons, lights, cake, and music.
 
-URL: https://sapthesh.github.io/Birthday/
+## Run Locally
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+### With Python
 
-# Setup
-
-## If you have python installed:
-```
-cd Birthday
+```bash
+python -m http.server 8081
 ```
 
-&& 
+Visit http://localhost:8081 in your browser.
 
-```
-python -m SimpleHTTPServer --port  8081
-```
+### With Node.js
 
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
+```bash
 npm install
-```
-&&
-
-```
 npm run server-node
 ```
-visit http://localhost:8081 in your browser.
 
+Visit http://localhost:8081 in your browser.
+
+## Tech Stack
+
+- HTML5 / CSS3 (LESS)
+- jQuery animations
+- Audio playback (`hbd.mp3`)
+
+## License
+
+MIT — see [LICENSE](LICENSE).
