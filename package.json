@@ -1,24 +1,22 @@
 {
-  "name": "birthday",
+  "name": "hbd",
   "version": "1.0.0",
-  "description": "Birthday greetings..",
-  "main": " ",
+  "description": "A Happy Birthday animation with HTML5, CSS3 and jQuery.",
+  "main": "",
   "scripts": {
     "server-node": "http-server -p 8081"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/KIRA-L001/HBD.git"
   },
-  "keywords": [
-    "Birthday"
-  ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
+  "keywords": ["Birthday", "HBD", "animation"],
+  "author": "KIRA-L001",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/KIRA-L001/HBD/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/KIRA-L001/HBD#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }

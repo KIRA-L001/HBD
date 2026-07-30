@@ -27,6 +27,14 @@ Visit http://localhost:8081 in your browser.
 - jQuery animations
 - Audio playback (`hbd.mp3`)
 
+## Features
+
+- Animated balloons that float across the screen
+- Interactive light effects
+- Cake animation with candles
+- Background music playback
+- Smooth transitions between birthday moments
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
