@@ -38,3 +38,5 @@ Visit http://localhost:8081 in your browser.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Install\n```bash\nnpm install\n```
