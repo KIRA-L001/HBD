@@ -42,3 +42,4 @@ MIT — see [LICENSE](LICENSE).
 ## Install\n```bash\nnpm install\n```
 
 ## Install\n`npm install`
+# setup
