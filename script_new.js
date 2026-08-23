@@ -1,3 +1,3 @@
-# script_new.js — contribution module (updated 2026-08-23 18:01:03)
-# build: 20260823-HBD
-export const BUILD = '20260823';
+# script_new.js — contribution module (updated 2026-08-24 01:37:34)
+# build: 20260824-HBD
+export const BUILD = '20260824';
